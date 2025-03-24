@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Bodya
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://i.pinimg.com/originals/0e/8f/75/0e8f7506fa5c6f140d5b83cd8e8c9b98.gif" height="32"/>
+</h1>
 
 <h3 align="center">Cybersecurity student, back-end dev and crypto enthusiast from Ukraine!</h3>
 
