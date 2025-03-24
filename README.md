@@ -41,4 +41,3 @@
 ### 🤝 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/badasya)
 - [Twitter](https://x.com/0xbadasya)
-- [Portfolio](https://your-portfolio.com)
