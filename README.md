@@ -11,7 +11,6 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Student of Cybersecurity
 - 🖥️ Back-end developer, focused on building secure applications
 - 💰 Interested in crypto and blockchain technologies
 
