@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#7B3FE4;">Badasya ⚡</span></h1>
 <h3 align="center" style="font-weight:400;">
-  <span style="color:#9b59b6;">On-chain Researcher</span> • 
-  <span style="color:#3498db;">Trader</span> • 
   <span style="color:#2ecc71;">Blockchain/Backend Developer</span>
 </h3>
 
