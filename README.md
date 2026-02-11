@@ -2,7 +2,7 @@
 <h3 align="center" style="font-weight:400;">
   <span style="color:#9b59b6;">On-chain Researcher</span> • 
   <span style="color:#3498db;">Trader</span> • 
-  <span style="color:#2ecc71;">Blockchain Developer</span>
+  <span style="color:#2ecc71;">Blockchain/Backend Developer</span>
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ## 🔹 About Me
-- Blockchain developer  
+- Blockchain/Backend developer  
 - On-chain researcher  
 - Trader  
 
@@ -24,7 +24,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Solidity-2c2c2c?style=for-the-badge&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethers.js-293462?style=for-the-badge&logo=ethers&logoColor=white"/>
 </p>
 
 ### **Development**
@@ -37,7 +36,7 @@
 ---
 
 ## 🔹 Work & Focus
-- Smart-contract development  
+- Development  
 - On-chain data analysis  
 - Trading  
 - R&D at **Badasya Labs**
