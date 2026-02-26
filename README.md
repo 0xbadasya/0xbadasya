@@ -11,8 +11,6 @@
 
 ## 🔹 About Me
 - Blockchain/Backend developer  
-- On-chain researcher  
-- Trader  
 
 ---
 
