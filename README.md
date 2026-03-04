@@ -33,8 +33,7 @@
 
 ## 🔹 Work & Focus
 - Development  
-- On-chain data analysis  
-- Trading  
+- On-chain data analysis   
 - R&D at **Badasya Labs**
 
 ---
